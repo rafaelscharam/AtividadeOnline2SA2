@@ -1,0 +1,3 @@
+O nome é: TestePF
+A data de nascimento é: 10/11/1998 00:00:00
+O rendimento é de: 5000
